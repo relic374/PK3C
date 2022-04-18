@@ -14,7 +14,7 @@ to run it, just type in 'pk3c.sh' anywhere in the terminal!<br>
 <hr>
 
 ![Image](pk3c.png)
-<p><span style="font-size=25px;">Creating both a zip <bold>and</bold> a pk3 file</span></p>
+<p><span style="font-size=20px;">Creating both a zip <bold>and</bold> a pk3 file</span></p>
 
 <hr>
 
