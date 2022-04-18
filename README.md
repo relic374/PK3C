@@ -1,5 +1,5 @@
 # PK3C
-Converts an inputted folder into a just .pk3 or a .pk3 & a .zip<br>
+Converts an inputted folder into just a .pk3 or a .pk3 & a .zip<br>
 This is a terminal application btw
 
 <hr>
