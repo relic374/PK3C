@@ -1,6 +1,6 @@
 # PK3C CHANGELOG
 
-<p>Current Version: 0.0.2</p>
+<p style="font-size:20px;font-weight:bold;">Current Version: 0.0.2</p>
 
 <hr>
 
