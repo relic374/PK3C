@@ -10,6 +10,8 @@ once the installation finishes, you'll have to put 'export PATH=$PATH:/opt/pk3c'
 then if should work! 
 to run it, just type in 'pk3c.sh' anywhere in the terminal!
 
+![Image](/Users/asgore89/Desktop/gimp/pk3c.png)
+
 Thank you for using!
 Created by Relic374
 Feel free to distribute with credit given
