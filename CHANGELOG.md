@@ -18,12 +18,3 @@
     * Released
     
  <hr>
-
-<style>
-   
-   p {
-      font-size:20px;
-      font-weight:bold;
-   }
-   
-</style>
