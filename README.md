@@ -13,7 +13,7 @@ to run it, just type in 'pk3c.sh' anywhere in the terminal!<br>
 
 <hr>
 
-![Image](~/Desktop/gimp/pk3c.png)
+![Image](pk3c.png)
 <p><sub>Creating both a zip <bold>and</bold> a pk3 file</sub></p>
 
 <hr>
