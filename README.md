@@ -8,7 +8,7 @@ Download pk3c.zip and unzip it<br>
 go into your terminal and run ./install.sh<br>
 you might be prompted to enter your password, and if so enter it<br>
 once the installation finishes, you'll have to put 'export PATH=$PATH:/opt/pk3c' into line 1 of your shell rc file (.zshrc, .bashrc, etc)<br>
-then if should work!<br>
+then it should work!<br>
 to run it, just type in 'pk3c.sh' anywhere in the terminal!<br>
 
 <hr>
