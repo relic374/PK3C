@@ -4,8 +4,8 @@ This is a terminal application btw
 
 <hr>
 
-Download pk3c.zip and unzip it<br>
-go into your terminal and run ./install.sh<br>
+clone this git repo (git clone https://github.com/relic374/PK3C)<br>
+go into your terminal, cd into the pk3c directory, and run ./install.sh<br>
 you might be prompted to enter your password, and if so enter it<br>
 once the installation finishes, you'll have to put 'export PATH=$PATH:/opt/pk3c' into line 1 of your shell rc file (.zshrc, .bashrc, etc)<br>
 then it should work!<br>
